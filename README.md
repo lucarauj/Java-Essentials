@@ -19,3 +19,8 @@
 - igualdade ( == | != )
 - relacionais ( < | > | <= | >= )
 - lógicos ( || - && )
+
+## Condicionais
+
+- ( if | else | else - if )
+- ( switch case )
