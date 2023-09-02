@@ -1,5 +1,7 @@
 # Java Essentials
 
+<br>
+
 ## Variáveis e Tipos de dados
 
 - byte (-128 | 127)
@@ -11,6 +13,8 @@
 - chat
 - boolean
 
+<br>
+
 ## Operadores
 
 - atribuição ( = )
@@ -20,14 +24,20 @@
 - relacionais ( < | > | <= | >= )
 - lógicos ( || - && )
 
+<br>
+
 ## Condicionais
 
 - ( if | else | else - if )
 - ( switch case )
 
+<br>
+
 ## Repetição
 
 - ( for | while | do - while )
+
+<br>
 
 ## Array
 
@@ -40,3 +50,18 @@
 - Copiando um array: Arrays.copyOf(array, [quantidade de index]);
 - Comparando 2 arrays: Arrays.equals(array1, array2));
 - Ordenando um array: Arrays.sort(sorted);
+
+<br>
+
+## Encapsulamento
+
+- Private: acesso dentro da classe;
+- Public: todo o projeto tem acesso;
+- Protected: acesso dentro do pacote;
+
+<br>
+
+## Abstração
+
+- Classe abstrata: Pode ter métodos com ou sem implementação, campos com estado, e suporta herança única (extends);
+- Interface: Apenas métodos abstratos, não pode ter campos com estado, e suporta herança múltipla (implements);

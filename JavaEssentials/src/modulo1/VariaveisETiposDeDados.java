@@ -1,3 +1,5 @@
+package modulo1;
+
 public class VariaveisETiposDeDados {
 
     public static void main(String[] args) {
