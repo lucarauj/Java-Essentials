@@ -24,3 +24,7 @@
 
 - ( if | else | else - if )
 - ( switch case )
+
+## Repetição
+
+- ( for | while | do - while ) 
