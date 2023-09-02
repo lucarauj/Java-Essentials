@@ -65,3 +65,10 @@
 
 - Classe abstrata: Pode ter métodos com ou sem implementação, campos com estado, e suporta herança única (extends);
 - Interface: Apenas métodos abstratos, não pode ter campos com estado, e suporta herança múltipla (implements);
+
+<br>
+
+## Polimorfismo
+
+- Sobrescrita: classe filha fornece uma implementação específica para um método já definido em sua classe pai, mantendo a mesma assinatura;
+- Sobrecarga: vários métodos na mesma classe com o mesmo nome, mas com diferentes parâmetros;
